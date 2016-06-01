@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "BETHEWON"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "THEWON_jiwon"
+description              : "Well, This is what i think."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
@@ -61,10 +61,10 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : "THEWON_jiwon"
+  avatar           : "thumb_IMG_6883_1024.jpg"
+  bio              : "Well, This is what i think."
+  location         : "Somewhere in osaka"
   email            :
   uri              :
   bitbucket        :
