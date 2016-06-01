@@ -1,16 +1,16 @@
 # main links links
 main:
-  - title: "Quick-Start Guide"
+  - title: "SMALL TALK"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 
-  - title: "About"
+  - title: "EAT"
     url: https://mmistakes.github.io/minimal-mistakes/
 
-  - title: "Sample Posts"
+  - title: "COOK"
     url: https://mmistakes.github.io/minimal-mistakes/year-archive/
 
-  - title: "Sample Pages"
+  - title: "TRAVEL"
     url: https://mmistakes.github.io/minimal-mistakes/page-archive/
 
-  - title: "Sample Collections"
+  - title: "*Portfolio"
     url: https://mmistakes.github.io/minimal-mistakes/collection-archive/
